@@ -1,5 +1,5 @@
-#include <CUnit/Basic.h>
 #include <stdio.h>
+#include <CUnit/Basic.h>
 #include "./shopping_cart_test.h"
 
 int main(int argc, char **argv) {
