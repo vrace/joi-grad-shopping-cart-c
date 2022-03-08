@@ -1,3 +1,6 @@
 .idea
 cmake-build-debug
 build
+.vs/
+x64/
+joi-grad-shopping-cart-c.vcxproj.user
